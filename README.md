@@ -6,3 +6,8 @@ These are articles I come across that pertain to Product Design and/or Product D
 -
 1. [Design For Action](https://hbr.org/2015/09/design-for-action)
 2. [Design Thinking](https://hbr.org/2008/06/design-thinking)
+
+
+### Journey Mapping
+
+1. [Journey Mapping 101: Understanding Journey Mapping](http://www.nonlinearcreations.com/Digital/how-we-think/articles/2015/04/Understanding-journey-mapping.aspx)
