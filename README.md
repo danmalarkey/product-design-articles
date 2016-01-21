@@ -21,3 +21,8 @@ These are articles I come across that pertain to Product Design and/or Product D
 
 ### Information Architecture
 1. [UX Booth | Complete Beginners Guide To Information Architecture](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/)
+
+-
+
+### Podcasts
+1. [Killer Innovations] (http://killerinnovations.com/)
